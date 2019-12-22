@@ -187,6 +187,7 @@ public class CipherchatzyApplication implements CommandLineRunner {
 	
 	chatReplyServices.InsertChatReply(chatReply5);
 	chatServices.InsertChat (chatMsg1);
+	
 	chatServices.InsertChat (chatMsg2);
 	chatReplyServices.InsertChatReply(chatReply1);
 	chatReplyServices.InsertChatReply(chatReply2);
